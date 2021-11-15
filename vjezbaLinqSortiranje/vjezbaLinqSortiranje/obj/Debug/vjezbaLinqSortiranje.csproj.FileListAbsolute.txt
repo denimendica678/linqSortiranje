@@ -1,0 +1,7 @@
+C:\Users\denim\source\repos\vjezbaLinqSortiranje\vjezbaLinqSortiranje\bin\Debug\vjezbaLinqSortiranje.exe.config
+C:\Users\denim\source\repos\vjezbaLinqSortiranje\vjezbaLinqSortiranje\bin\Debug\vjezbaLinqSortiranje.exe
+C:\Users\denim\source\repos\vjezbaLinqSortiranje\vjezbaLinqSortiranje\bin\Debug\vjezbaLinqSortiranje.pdb
+C:\Users\denim\source\repos\vjezbaLinqSortiranje\vjezbaLinqSortiranje\obj\Debug\vjezbaLinqSortiranje.csprojAssemblyReference.cache
+C:\Users\denim\source\repos\vjezbaLinqSortiranje\vjezbaLinqSortiranje\obj\Debug\vjezbaLinqSortiranje.csproj.CoreCompileInputs.cache
+C:\Users\denim\source\repos\vjezbaLinqSortiranje\vjezbaLinqSortiranje\obj\Debug\vjezbaLinqSortiranje.exe
+C:\Users\denim\source\repos\vjezbaLinqSortiranje\vjezbaLinqSortiranje\obj\Debug\vjezbaLinqSortiranje.pdb
